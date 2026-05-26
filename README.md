@@ -20,15 +20,7 @@ Chi is a **Chichewa-inspired programming language** built to make programming mo
 
 ## 📦 Installation
 
-Requirements:
-
-- Python 3.8+
-
-Install from PyPI:
-
-```bash
-pip install chi-lang
-```
+For detailed installation instructions and platform-specific guides, see the official documentation site: https://chi.yazaai.tech
 
 ## 🚀 Quick Start
 
