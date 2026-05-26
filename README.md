@@ -1,0 +1,132 @@
+# Chi Programming Language
+
+![PyPI version badge for chi-lang package](https://img.shields.io/pypi/v/chi-lang)
+![Supported Python versions badge for chi-lang](https://img.shields.io/pypi/pyversions/chi-lang)
+![MIT license badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub stars badge for jakesh2/chi-lang](https://img.shields.io/github/stars/jakesh2/chi-lang?style=social)
+
+Chi is a **Chichewa-inspired programming language** built to make programming more accessible through familiar Chichewa keywords, while still fitting into Python-based workflows.
+
+> Chi is an educational project focused on accessibility, learning, and community growth.
+
+## ✨ Features
+
+- Beginner-friendly syntax inspired by Chichewa
+- Clean command-line workflow (`chi run`, `chi repl`)
+- Python ecosystem compatibility through CLI workflows
+- Helpful built-in examples to get started quickly
+- Lightweight setup via PyPI
+- Growing documentation and learning resources
+
+## 📦 Installation
+
+Requirements:
+
+- Python 3.8+
+
+Install from PyPI:
+
+```bash
+pip install chi-lang
+```
+
+## 🚀 Quick Start
+
+| Goal | Command |
+|---|---|
+| Start interactive mode | `chi repl` |
+| Run a Chi file | `chi run hello.chi` |
+| Run built-in example | `chi run --example hello_world` |
+
+## 👋 First Chi Program
+
+Create `hello.chi`:
+
+```chi
+onetsa("Moni, dziko!")
+```
+
+Run it:
+
+```bash
+chi run hello.chi
+```
+
+## 💻 CLI Usage Examples
+
+```bash
+chi repl
+chi run hello.chi
+chi run --example hello_world
+```
+
+## 🧪 REPL Example
+
+```bash
+$ chi repl
+>>> onetsa("Moni kuchokera mu REPL!")
+Moni kuchokera mu REPL!
+```
+
+## 🔗 Python Interoperability Example
+
+You can use Chi alongside Python scripts and tooling:
+
+```python
+import subprocess
+
+subprocess.run(["chi", "run", "hello.chi"], check=True)
+```
+
+## 🧾 Language Syntax Examples
+
+```chi
+ika age = 20
+
+ngati age wafananitsa 18:
+    onetsa("Adult")
+sizoona:
+    onetsa("Minor")
+```
+
+_Note: This snippet is intentionally shown using the current Chi tutorial-style syntax._
+
+## 📚 Example Programs Included
+
+Chi ships with runnable examples to support learning:
+
+```bash
+chi run --example hello_world
+```
+
+## 🌍 Why Chi Exists
+
+Many people learn faster when programming concepts are introduced in familiar language patterns. Chi exists to make coding feel more approachable for Chichewa speakers and beginners, while still connecting to practical Python-based workflows.
+
+## 🤝 Community and Contribution
+
+Contributions are welcome—bug fixes, examples, docs improvements, and ideas all help. Documentation is still growing, and community feedback is valuable.
+
+To contribute:
+
+1. Fork the repository
+2. Create a feature branch
+3. Open a pull request
+
+## ⭐ Support the Project
+
+⭐ If Chi helps you or inspires you, please give the repository a star on GitHub. It helps the project grow and reach more learners.
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/jakesh2/chi-lang)
+- [PyPI Package](https://pypi.org/project/chi-lang/)
+- [Issues](https://github.com/jakesh2/chi-lang/issues)
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👤 Author
+
+**Duncan Masiye**
