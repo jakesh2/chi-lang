@@ -2,7 +2,7 @@
 
 ![PyPI version badge for chi-lang package](https://img.shields.io/pypi/v/chi-lang)
 ![Supported Python versions badge for chi-lang](https://img.shields.io/pypi/pyversions/chi-lang)
-![MIT license badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Apache 2.0 license badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![GitHub stars badge for jakesh2/chi-lang](https://img.shields.io/github/stars/jakesh2/chi-lang?style=social)
 
 ChiLang is a **Chichewa-inspired programming language** built to make programming more accessible through familiar Chichewa keywords, while still fitting into Python-based workflows.
@@ -107,11 +107,11 @@ To contribute:
 
 ## ⭐ Support the Project
 
-⭐ If Chi helps you or inspires you, please give the repository a star on GitHub. It helps the project grow and reach more learners.
+If Chi has helped you, taught you something new, or inspired one of your own ideas, please consider giving the repository a star on GitHub. It is a small gesture, but it helps more learners discover the project and encourages continued development.
 
-### 💛 Donations and Contributions
+### 💛 Financial Contributions
 
-If you would like to support Chi, please visit the donations page for the latest contribution options and details:
+If you would like to support Chi financially, contributions are warmly appreciated, but never expected. Please visit the donations page when it feels right for you:
 
 https://chi.yazaai.tech/donations
 
@@ -123,7 +123,7 @@ https://chi.yazaai.tech/donations
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 ## 👤 Author
 
