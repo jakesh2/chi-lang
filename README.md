@@ -20,7 +20,7 @@ Chi is a **Chichewa-inspired programming language** built to make programming mo
 
 ## 📦 Installation
 
-For detailed installation instructions and platform-specific guides, see the official documentation site: https://chi.yazaai.tech
+For installation instructions and platform-specific guides, see the official site: https://chi.yazaai.tech
 
 ## 🚀 Quick Start
 
