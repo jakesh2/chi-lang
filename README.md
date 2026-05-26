@@ -1,13 +1,13 @@
-# Chi Programming Language
+# ChiLang: Chichewa Programming Language
 
 ![PyPI version badge for chi-lang package](https://img.shields.io/pypi/v/chi-lang)
 ![Supported Python versions badge for chi-lang](https://img.shields.io/pypi/pyversions/chi-lang)
 ![MIT license badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub stars badge for jakesh2/chi-lang](https://img.shields.io/github/stars/jakesh2/chi-lang?style=social)
 
-Chi is a **Chichewa-inspired programming language** built to make programming more accessible through familiar Chichewa keywords, while still fitting into Python-based workflows.
+ChiLang is a **Chichewa-inspired programming language** built to make programming more accessible through familiar Chichewa keywords, while still fitting into Python-based workflows.
 
-> Chi is an educational project focused on accessibility, learning, and community growth.
+> ChiLang  project focuses on accessibility and learning programming in our Local language hence eliminating langauge barrier and syntanx barrier and also offering transion ready environment with its features to seamlessly work with python to and from.
 
 ## ✨ Features
 
@@ -108,6 +108,12 @@ To contribute:
 ## ⭐ Support the Project
 
 ⭐ If Chi helps you or inspires you, please give the repository a star on GitHub. It helps the project grow and reach more learners.
+
+### 💛 Donations and Contributions
+
+If you would like to support Chi, please visit the donations page for the latest contribution options and details:
+
+https://chi.yazaai.tech/donations
 
 ## 🔗 Links
 
